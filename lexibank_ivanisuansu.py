@@ -1,12 +1,10 @@
 import attr
 import lingpy
-from clldutils.path import Path
-from clldutils.text import strip_chars, split_text_with_context
-from clldutils.misc import lazyproperty
-from lingpy.sequence.sound_classes import syllabify
-from pylexibank.dataset import Concept, Language
-from pylexibank.dataset import NonSplittingDataset as BaseDataset
-from pylexibank.util import pb, getEvoBibAsBibtex
+from pathlib import Path
+from clldutils.misc import slug
+from pylexibank import Language
+from pylexibank import progressbar
+from pylexibank.dataset import Dataset as BaseDataset
 
 @attr.s
 class HLanguage(Language):
@@ -23,11 +21,8 @@ class Dataset(BaseDataset):
     id = "ivanisuansu"
     language_class = HLanguage
 
-    def cmd_download(self, **kw):
-        pass
-
-    def cmd_install(self, **kw):
-        wl = lingpy.Wordlist(self.raw.posix("suansu.tsv"))
+    def cmd_makecldf(self, args):
+        wl = lingpy.Wordlist(self.raw_dir.joinpath("suansu.tsv").as_posix())
 
         converter = {
                 'll': 'lː',
@@ -58,18 +53,29 @@ class Dataset(BaseDataset):
                 "ʷ": "w",
                 }
 
-        with self.cldf as ds:
-            ds.add_sources(*self.raw.read_bib())
-            ds.add_concepts(id_factory=lambda c: c.concepticon_id)
-            ds.add_languages()
+        args.writer.add_sources()
+        concepts = {}
+        args.writer.add_languages()
 
-            for k in pb(wl, desc="wl-to-cldf", total=len(wl)):
-                ds.add_form_with_segments(
-                    Language_ID='Suansu',
-                    Parameter_ID=wl[k, 'concepticon_id'],
-                    Value=''.join(wl[k, "tokens"]),
-                    Form=''.join(wl[k, 'tokens']),
-                    Segments=' '.join(
-                        [converter.get(x, x) for x in wl[k, 'tokens']]).split(),
-                    Source=["Ivani2019"],
-                )
+        for k in progressbar(wl, desc="wl-to-cldf", total=len(wl)):
+            if wl[k, 'concepticon_id'] not in concepts:
+                cid = '{0}_{1}'.format(
+                        wl[k, 'concepticon_id'],
+                        slug(wl[k, 'concept'])
+                        )
+                concepts[wl[k, 'concept']] = cid
+                args.writer.add_concept(
+                        ID=cid,
+                        Name=wl[k, 'concept'],
+                        Concepticon_ID=wl[k, 'concepticon_id'],
+                        Concepticon_Gloss=wl[k, 'concepticon_gloss'],
+                        )
+            args.writer.add_form_with_segments(
+                Language_ID='Suansu',
+                Parameter_ID=concepts[wl[k, 'concept']],
+                Value=''.join(wl[k, "tokens"]),
+                Form=''.join(wl[k, 'tokens']),
+                Segments=' '.join(
+                    [converter.get(x, x) for x in wl[k, 'tokens']]).split(),
+                Source=["Ivani2019"],
+            )
