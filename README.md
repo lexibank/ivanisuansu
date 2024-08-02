@@ -29,22 +29,22 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 1
-- **Concepts:** 250
+- **Varieties:** 1 (linked to 1 different Glottocodes)
+- **Concepts:** 250 (linked to 250 different Concepticon concept sets)
 - **Lexemes:** 250
 - **Sources:** 1
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
 - **Tokens:** 1,087
-- **Segments:** 79 (0 BIPA errors, 0 CLTS sound class errors, 79 CLTS modified)
-- **Inventory size (avg):** 79.00
+- **Segments:** 78 (0 BIPA errors, 0 CLTS sound class errors, 78 CLTS modified)
+- **Inventory size (avg):** 78.00
 
 # Contributors
 
-Name | GitHub user | Description | Role
---- | --- | --- | ---
-Johann-Mattis List | @LinguList | dataset patron | DataCurator
-Jessica Katiuscia Ivani | | original fieldwork| Author
+Name | GitHub user | Description                  | Role
+--- | --- |------------------------------| ---
+Johann-Mattis List | @LinguList | dataset patron, data curator | Editor
+Jessica Katiuscia Ivani | | original fieldwork           | Author
 
 
 
