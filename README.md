@@ -1,5 +1,7 @@
 # CLDF dataset derived from Ivani's "Basic Words in Suansu" from 2019
 
+[![CLDF validation](https://github.com/lexibank/ivanisuansu/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/ivanisuansu/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -17,9 +19,16 @@ Available online at https://zenodo.org/record/3383006
 
 Conceptlists in Concepticon:
 - [Sagart-2019-250](https://concepticon.clld.org/contributions/Sagart-2019-250)
+## Notes
+
+Data in segmented form were slightly adjusted from the original, by correcting some cases which we assumed to be typos and also by modifying the representation of what was judged as one and what was judged as two sounds. Data should be taken with some care at this point, since we still wait for a complete phonological analysis of the language.
+
+
+
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/ivanisuansu/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/ivanisuansu/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
