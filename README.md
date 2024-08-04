@@ -1,8 +1,14 @@
 # CLDF dataset derived from Ivani's "Basic Words in Suansu" from 2019
 
-Cite the source dataset as
+## How to cite
 
-> Ivani, J. K. (2019): A first overview on Suansu, a Tibeto-Burman language from Northeastern India. Talk, held at the 29th conference of the Southeast Asian Linguistic Society (27-29 May, Tokyo). https://zenodo.org/record/3383006
+If you use these data please cite
+- the original source
+  > Ivani, J. K. (2019): A first overview on Suansu, a Tibeto-Burman language from Northeastern India. Talk, held at the 29th conference of the Southeast Asian Linguistic Society (27-29 May, Tokyo). https://zenodo.org/record/3383006
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -26,9 +32,9 @@ Conceptlists in Concepticon:
 - **Sources:** 1
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
-- **Tokens:** 1,087
-- **Segments:** 79 (0 BIPA errors, 0 CTLS sound class errors, 79 CLTS modified)
-- **Inventory size (avg):** 79.00
+- **Tokens:** 1,062
+- **Segments:** 80 (0 BIPA errors, 0 CLTS sound class errors, 80 CLTS modified)
+- **Inventory size (avg):** 80.00
 
 # Contributors
 
@@ -38,3 +44,10 @@ Johann-Mattis List | @LinguList | dataset patron | DataCurator
 Jessica Katiuscia Ivani | | original fieldwork| Author
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)

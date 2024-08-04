@@ -1,17 +1,17 @@
 ID	DOCULECT	NUMBER	CONCEPT	TOKENS	TBL_ID	CONCEPTICON_ID	CONCEPTICON_GLOSS
 1	Suansu	1	above	a ddʑ oj	731	1741	ABOVE
 2	Suansu	2	all	m ɐ dz õ	962	98	ALL
-3	Suansu	3	the ant	kʰ õ r õ i	365	587	ANT
+3	Suansu	3	the ant	kʰ õ r õ.i	365	587	ANT
 4	Suansu	4	the armpit	kʰ f a tʰ ɐ̃ l ɐ̃	92	1886	ARMPIT
 5	Suansu	5	bad	g ə f je	1053	1292	BAD
 6	Suansu	6	the bamboo	g ə f e θ ə m	389	1927	BAMBOO
 7	Suansu	7	the barley (tibetan or highland)	g e h u	411	932	BARLEY
 8	Suansu	8	to be alive	ʃ a ŋ e	1087	1422	BE ALIVE
 9	Suansu	9	the belly	p o k	96	1251	BELLY
-10	Suansu	10	below, under	a x õ i	732	1485	BELOW OR UNDER
-11	Suansu	11	big	a dd a j	964	1202	BIG
+10	Suansu	10	below, under	a x õ.i	732	1485	BELOW OR UNDER
+11	Suansu	11	big	a dd a.j	964	1202	BIG
 12	Suansu	12	the bird	x ɹ e	326	937	BIRD
-13	Suansu	13	to bite	m k a j	1753	1403	BITE
+13	Suansu	13	to bite	m k a.j	1753	1403	BITE
 14	Suansu	14	black	a tt ə k e	1005	163	BLACK
 15	Suansu	15	the blood	ss	129	946	BLOOD
 16	Suansu	16	to blow (of wind)	pʰ æ nn e	1738	175	BLOW (OF WIND)
@@ -21,34 +21,34 @@ ID	DOCULECT	NUMBER	CONCEPT	TOKENS	TBL_ID	CONCEPTICON_ID	CONCEPTICON_GLOSS
 20	Suansu	20	the breast (female)	n w i	94	1402	BREAST
 21	Suansu	21	to burn [intransitive]	a ddʑ o j	1269	1428	BURNING
 22	Suansu	22	to buy	a ll u e	1516	1869	BUY
-23	Suansu	23	to chew	f I k a e	1424	321	CHEW
+23	Suansu	23	to chew	f I/ɪ k a e	1424	321	CHEW
 24	Suansu	24	the child (young human)	ɲ ə	169	1304	CHILD (YOUNG HUMAN)
 25	Suansu	25	the cloud	ɲ o m a	7	1489	CLOUD
 26	Suansu	26	cold (of temperature)	m o k u ŋ e	1063	1287	COLD
 27	Suansu	27	to come	ɹ e	1491	1446	COME
 28	Suansu	28	correct (right)	m a θ u ŋ e	1045	1725	CORRECT (RIGHT)
 29	Suansu	29	to count	ts a k e	1640	1420	COUNT
-30	Suansu	30	to cry (weep)	a ddʑ a i	1485	1839	CRY
+30	Suansu	30	to cry (weep)	a ddʑ a.i	1485	1839	CRY
 31	Suansu	31	dark	m ə mm e	1013	706	DARK
 32	Suansu	32	the daughter	ɲ ə l e w i	222	1357	DAUGHTER
 33	Suansu	33	the dew	n u ŋ a e	15	1977	DEW
 34	Suansu	34	to die	a tts w e	1651	1494	DIE
-35	Suansu	35	to dig	a ʈʈʂ u e	1698	1418	DIG
-36	Suansu	36	dirty	m k ɵ j	1086	1230	DIRTY
+35	Suansu	35	to dig	a ʈʈʂ u/w e	1698	1418	DIG
+36	Suansu	36	dirty	m k ɵ.j	1086	1230	DIRTY
 37	Suansu	37	the dog	ʍ w i	289	2009	DOG
 38	Suansu	38	the dream	m ɔ̃ l ɛ̃	699	2374	DREAM
 39	Suansu	39	to drink	a mm œ̃	1370	1401	DRINK
-40	Suansu	40	dry	a pp ʷ e	1028	1398	DRY
+40	Suansu	40	dry	a pp ʷ/w e	1028	1398	DRY
 41	Suansu	41	the dust	u p ú	45	2	DUST
 42	Suansu	42	the ear	n i k õ	81	1247	EAR
-43	Suansu	43	early	a tts w a e	1018	672	EARLY
+43	Suansu	43	early	a tts w a.e/i	1018	672	EARLY
 44	Suansu	44	the earth (soil)	ɬ a	40	1228	EARTH (SOIL)
-45	Suansu	45	the earthworm	l õ θ i e	363	2350	EARTHWORM
+45	Suansu	45	the earthworm	l õ θ i/j e	363	2350	EARTHWORM
 46	Suansu	46	to eat	a ð e	1198	1336	EAT
 47	Suansu	47	the egg	h a ʃ w i	450	744	EGG
 48	Suansu	48	eight	k ə θ a	804	1705	EIGHT
 49	Suansu	49	the eye	m o k	79	1248	EYE
-50	Suansu	50	far	a ddʒ u e	974	1406	FAR
+50	Suansu	50	far	a ddʒ u/w e	974	1406	FAR
 51	Suansu	51	the father	a bb e	218	1217	FATHER
 52	Suansu	52	the feather	a ɹ e	299	1201	FEATHER
 53	Suansu	53	to fight	n ə ŋ e	1234	1423	FIGHT
@@ -57,58 +57,58 @@ ID	DOCULECT	NUMBER	CONCEPT	TOKENS	TBL_ID	CONCEPTICON_ID	CONCEPTICON_GLOSS
 56	Suansu	56	the fish	k I θ e	351	227	FISH
 57	Suansu	57	five	p ə ŋ e	801	493	FIVE
 58	Suansu	58	the flea	ʃ i	355	232	FLEA
-59	Suansu	59	to float	k ə p õ e	1553	1574	FLOAT
-60	Suansu	60	to flow	a ll õ e	1502	2003	FLOW
+59	Suansu	59	to float	k ə p õ.e/i	1553	1574	FLOAT
+60	Suansu	60	to flow	a ll õ.e/i	1502	2003	FLOW
 61	Suansu	61	the flower	p ã p w ẽ	377	239	FLOWER
 62	Suansu	62	to fly (move through air)	a pp ɹ j e	1318	1441	FLY (MOVE THROUGH AIR)
 63	Suansu	63	the fog	f ə θ e	16	249	FOG
 64	Suansu	64	the foot	p e dz ə	103	1301	FOOT
 65	Suansu	65	the forest	θ ə n dz ə̃ n	50	420	FOREST
-66	Suansu	66	to forget	m ə ll a j	1704	1523	FORGET
+66	Suansu	66	to forget	m ə ll a.j/i	1704	1523	FORGET
 67	Suansu	67	four	m a tɕ i	800	1500	FOUR
 68	Suansu	68	the fox	t h a mm í	325	1312	FOX
 69	Suansu	69	the frog	tʃ u x w e	349	503	FROG
 70	Suansu	70	the front (front side)	a θ i	712	2194	FRONT (PART)
 71	Suansu	71	the frost	k o tʃ i n d i	14	2034	FROST
-72	Suansu	72	the fruit	tʰ a ʃ i e	378	1507	FRUIT
-73	Suansu	73	full	p w i e	984	1429	FULL
-74	Suansu	74	to give	a mm j ē	1345	1447	GIVE
-75	Suansu	75	the goat	a mm j ê	276	1502	GOAT
-76	Suansu	76	good	k ə ss u e	1052	1035	GOOD
+72	Suansu	72	the fruit	tʰ a ʃ i/j e	378	1507	FRUIT
+73	Suansu	73	full	p w i/j e	984	1429	FULL
+74	Suansu	74	to give	a mm j ē/e	1345	1447	GIVE
+75	Suansu	75	the goat	a mm j ê/e	276	1502	GOAT
+76	Suansu	76	good	k ə ss u/w e	1052	1035	GOOD
 77	Suansu	77	the grass	g ə ʃ a m	436	606	GRASS
-78	Suansu	78	green	m ə tʃ I k e	1009	1425	GREEN
+78	Suansu	78	green	m ə tʃ I/ɪ k e	1009	1425	GREEN
 79	Suansu	79	the hail	l o k l õ tʰ a	13	609	HAIL
 80	Suansu	80	the hair (of the head)	g ə ɹ e	75	1040	HAIR
 81	Suansu	81	the hand	k e	107	1277	HAND
 82	Suansu	82	hard	θ o k e	1034	1884	HARD
 83	Suansu	83	he or she [third person singular]	b a	934	262	HE OR SHE OR IT
 84	Suansu	84	the head	k ə	74	1256	HEAD
-85	Suansu	85	to hear	a ddʒ u e	1682	1408	HEAR
+85	Suansu	85	to hear	a ddʒ u/w e	1682	1408	HEAR
 86	Suansu	86	the heart	m a ll u n	144	1223	HEART
 87	Suansu	87	heavy	a ʃ a tt e	1014	1210	HEAVY
 88	Suansu	88	here	h a nn o	944	136	HERE
 89	Suansu	89	to hide (conceal)	a tts w e	1169	602	HIDE (CONCEAL)
-90	Suansu	90	high / tall	a ddʑ o j	968	1265	HIGH
-91	Suansu	91	to hold	a dd a e	1709	1448	HOLD
+90	Suansu	90	high / tall	a ddʑ o.j/i	968	1265	HIGH
+91	Suansu	91	to hold	a dd a.e/i	1709	1448	HOLD
 92	Suansu	92	the hoof	a ttʃ w a	264	152	HOOF
 93	Suansu	93	horizontal	tʃ õ pʰ a l ɛ̃	1001	2376	HORIZONTAL
 94	Suansu	94	the horn (keratinized skin)	a tts ə	263	1393	HORN (ANATOMY)
 95	Suansu	95	the horse	θ e k w ɛ̃	268	615	HORSE
-96	Suansu	96	hot	a ddʑ o j	1062	1286	HOT
-97	Suansu	97	the house	ʃ u í	494	1252	HOUSE
+96	Suansu	96	hot	a ddʑ o.j/i	1062	1286	HOT
+97	Suansu	97	the house	ʃ u/w í/i	494	1252	HOUSE
 98	Suansu	98	hundred	ts u g a	824	1634	HUNDRED
-99	Suansu	99	to hunt	a θ o i	1230	1435	HUNT
+99	Suansu	99	to hunt	a θ o.i	1230	1435	HUNT
 100	Suansu	100	the husband	a bb j e	247	1200	HUSBAND
 101	Suansu	101	I [first person singular]	a	928	1209	I
 102	Suansu	102	the ice	g ə pʰ e m	17	617	ICE
 103	Suansu	103	inside	a θ u ŋ e	715	1606	INSIDE
-104	Suansu	104	to kill	m ə ttʰ a j	1602	1417	KILL
+104	Suansu	104	to kill	m ə ttʰ a.j/i	1602	1417	KILL
 105	Suansu	105	to knead	m a nn w e	1594	274	KNEAD
 106	Suansu	106	the knee	k o k	101	1371	KNEE
 107	Suansu	107	knife	ʃ u r i	549	1352	KNIFE
 108	Suansu	108	to know (something)	m a θ ə dd e	1798	1410	KNOW (SOMETHING)
-109	Suansu	109	the lake	ʃ u I z ə	31	624	LAKE
-110	Suansu	110	late	a ɲ o j	1019	477	LATE
+109	Suansu	109	the lake	ʃ u I/ɪ z ə	31	624	LAKE
+110	Suansu	110	late	a ɲ o.j/i	1019	477	LATE
 111	Suansu	111	to laugh	m a nn w e	1735	1355	LAUGH
 112	Suansu	112	the leaf	a ɲ u	376	628	LEAF
 113	Suansu	113	to learn	k ə t ə mm e	1742	504	LEARN
@@ -118,19 +118,19 @@ ID	DOCULECT	NUMBER	CONCEPT	TOKENS	TBL_ID	CONCEPTICON_ID	CONCEPTICON_GLOSS
 117	Suansu	117	light (of weight)	a pp i ŋ e 	1015	1052	LIGHT (WEIGHT)
 118	Suansu	118	the lip (the lips)	m ə ŋ tʰ i	85	478	LIP
 119	Suansu	119	the liver	a ttʰ ẽ	145	1224	LIVER
-120	Suansu	120	long	a ss ə̃ e	972	1203	LONG
+120	Suansu	120	long	a ss ə̃.e/i	972	1203	LONG
 121	Suansu	121	the louse	ʃ a kʰ	356	1392	LOUSE
 122	Suansu	122	the lung	a w a	143	688	LUNG
 123	Suansu	123	the man (male human)	p e ɲ ə	173	2106	MALE PERSON
 124	Suansu	124	many	p w i t ə ŋ ɹ e	987	1198	MANY
-125	Suansu	125	to marry (a man marries a woman)	p i w I i ə e	1578	2164	MARRY (AS MAN)
+125	Suansu	125	to marry (a man marries a woman)	p i w I/ɪ i/j ə.e/i	1578	2164	MARRY (AS MAN)
 126	Suansu	126	the meat	θ e	443	634	MEAT
 127	Suansu	127	middle	a ll u ŋ dz ə̃	708	1093	MIDDLE
 128	Suansu	128	the moon	ɬ e	4	1313	MOON
 129	Suansu	129	morning	ts w a l ɛ	749	1339	MORNING
 130	Suansu	130	the mosquito	ts ã ts ã l e l e	360	1509	MOSQUITO
 131	Suansu	131	the mother	a θ i	219	1216	MOTHER
-132	Suansu	132	the mountain	g ə pʰ u ŋ 	23	639	MOUNTAIN
+132	Suansu	132	the mountain	g ə pʰ u ŋ /ŋ	23	639	MOUNTAIN
 133	Suansu	133	the mouse or rat	m a ss u	320	2139	MUROID (MOUSE OR RAT)
 134	Suansu	134	the mouth	k ə m u n	84	674	MOUTH
 135	Suansu	135	the mud	pʰ a kʰ	46	640	MUD
@@ -144,11 +144,11 @@ ID	DOCULECT	NUMBER	CONCEPT	TOKENS	TBL_ID	CONCEPTICON_ID	CONCEPTICON_GLOSS
 143	Suansu	143	nine	t ə k u	805	1483	NINE
 144	Suansu	144	the nit	ʃ a k ʃ w i	357	267	NIT
 145	Suansu	145	noon	ʍ u n l e	750	12	MIDDAY
-146	Suansu	146	the nose	n I ss w a	80	1221	NOSE
-147	Suansu	147	old (of person)	a ddʰ a e	1058	2112	OLD (AGED)
+146	Suansu	146	the nose	n I/ɪ ss w a	80	1221	NOSE
+147	Suansu	147	old (of person)	a ddʰ a.e/i	1058	2112	OLD (AGED)
 148	Suansu	148	one	s ə kʰ a	797	1493	ONE
 149	Suansu	149	the otter	θ ə̃ ŋ ɹ ə̃ n	317	15	OTTER
-150	Suansu	150	outside	a ss ə̃ e	714	762	OUTSIDE
+150	Suansu	150	outside	a ss ə̃.e/i	714	762	OUTSIDE
 151	Suansu	151	the pig	ʍ w a	284	1337	PIG
 152	Suansu	152	to plant (vegetals, rice)	l ə̃ ŋ e	1774	1486	PLANT (SOMETHING)
 153	Suansu	153	to play	k ə r i θ e	1703	1413	PLAY
@@ -156,10 +156,10 @@ ID	DOCULECT	NUMBER	CONCEPT	TOKENS	TBL_ID	CONCEPTICON_ID	CONCEPTICON_GLOSS
 155	Suansu	155	to push	n a mm e	1689	1452	PUSH
 156	Suansu	156	the rain	k t n ɹ w e	10	658	RAIN (PRECIPITATION)
 157	Suansu	157	the rainbow	ts ã ts ã l e l e θ ə ŋ e	11	1733	RAINBOW
-158	Suansu	158	red	a χ ə i	1007	156	RED
-159	Suansu	159	to reside (live)	b ə̃ t h o i	1452	1099	RESIDE
+158	Suansu	158	red	a χ ə.i	1007	156	RED
+159	Suansu	159	to reside (live)	b ə̃ t.h/ʰ o i	1452	1099	RESIDE
 160	Suansu	160	the rice plant	tʃ u r u n	439	2026	RICE PLANT
-161	Suansu	161	right	a z u e	711	1019	RIGHT
+161	Suansu	161	right	a z u/w e	711	1019	RIGHT
 162	Suansu	162	the river	v e r a k u	30	666	RIVER
 163	Suansu	163	the road	l a b w i	38	667	ROAD
 164	Suansu	164	the root	a ɹɹ ə ŋ	375	670	ROOT
@@ -171,7 +171,7 @@ ID	DOCULECT	NUMBER	CONCEPT	TOKENS	TBL_ID	CONCEPTICON_ID	CONCEPTICON_GLOSS
 170	Suansu	170	the sand	ɬ a ts ə r e	44	671	SAND
 171	Suansu	171	to scratch	m ə ttɕ j e	1530	1436	SCRATCH
 172	Suansu	172	the sea	ʃ w i z ə	32	1474	SEA
-173	Suansu	173	to see	a tt h a i	1471	1409	SEE
+173	Suansu	173	to see	a tt.h/ʰ a i	1471	1409	SEE
 174	Suansu	174	the seed	a tts ə	405	714	SEED
 175	Suansu	175	seven	ts o n i	803	1704	SEVEN
 176	Suansu	176	sharp	m a j i ŋ e	1020	1396	SHARP
@@ -179,14 +179,14 @@ ID	DOCULECT	NUMBER	CONCEPT	TOKENS	TBL_ID	CONCEPTICON_ID	CONCEPTICON_GLOSS
 178	Suansu	178	to shoot (an arrow)	k ə p e	1611	1172	SHOOT
 179	Suansu	179	short	kʰ ə nn e	973	1645	SHORT
 180	Suansu	180	the shoulder	a v ə	90	1482	SHOULDER
-181	Suansu	181	shy	θ a tɕ e ma i	1365	487	SHY
+181	Suansu	181	shy	θ a tɕ e m a.i	1365	487	SHY
 182	Suansu	182	the sickle	tʃ o kʰ ʃ e	624	341	SICKLE
 183	Suansu	183	to sing	ɬ ɛ̃ n θ e	1184	1261	SING
 184	Suansu	184	six	tʃ o k	802	1703	SIX
 185	Suansu	185	the skin	a w i	120	763	SKIN
 186	Suansu	186	the sky	ts õ ɹ ɛ̃	1	1732	SKY
 187	Suansu	187	to sleep	θ a p e	1646	1585	SLEEP
-188	Suansu	188	small	a dʒ u dʒ u e	965	1246	SMALL
+188	Suansu	188	small	a dʒ u dʒ u/w e	965	1246	SMALL
 189	Suansu	189	to smell (perceive odor) [transitive]	m ã nn a mm e	1707	1586	SMELL (PERCEIVE)
 190	Suansu	190	the smoke	m a kʰ u	19	778	SMOKE (EXHAUST)
 191	Suansu	191	smooth	m i m i ɹ e	1037	1234	SMOOTH
@@ -196,7 +196,7 @@ ID	DOCULECT	NUMBER	CONCEPT	TOKENS	TBL_ID	CONCEPTICON_ID	CONCEPTICON_GLOSS
 195	Suansu	195	the son	ɲ ə p e	220	1620	SON
 196	Suansu	196	the sparrow	kʰ o tʂ ɹ ə	336	1854	SPARROW
 197	Suansu	197	the spider	l a dʑ o	361	843	SPIDER
-198	Suansu	198	to spit	m a ttʰ u e	1688	1440	SPIT
+198	Suansu	198	to spit	m a ttʰ u/w e	1688	1440	SPIT
 199	Suansu	199	to stand	θ ə ŋ e	1784	1442	STAND
 200	Suansu	200	the star	ts tʂ e	5	1430	STAR
 201	Suansu	201	to steal	a ll j e	1686	713	STEAL
@@ -205,11 +205,11 @@ ID	DOCULECT	NUMBER	CONCEPT	TOKENS	TBL_ID	CONCEPTICON_ID	CONCEPTICON_GLOSS
 204	Suansu	204	straight	l ə ŋ d ə ɹ e	1003	1404	STRAIGHT
 205	Suansu	205	the sun	θ a m o kh	2	1343	SUN
 206	Suansu	206	the tail	a mm a	267	1220	TAIL
-207	Suansu	207	ten	tʂ e j	806	1515	TEN
+207	Suansu	207	ten	tʂ e.j/i	806	1515	TEN
 208	Suansu	208	that	i d a	947	78	THAT
 209	Suansu	209	there	d i n o	950	1937	THERE
 210	Suansu	210	thick	ʃ w e	980	1244	THICK
-211	Suansu	211	the thigh	ph a th a	100	800	THIGH
+211	Suansu	211	the thigh	ph a th/tʰ a	100	800	THIGH
 212	Suansu	212	thin (object)	a bb e	981	2307	THIN (OF HAIR AND LEAF)
 213	Suansu	213	to think (reflect)	p a nn ə ŋ e	1726	1415	THINK (REFLECT)
 214	Suansu	214	this	h a ɲ ə	942	1214	THIS
@@ -230,10 +230,10 @@ ID	DOCULECT	NUMBER	CONCEPT	TOKENS	TBL_ID	CONCEPTICON_ID	CONCEPTICON_GLOSS
 229	Suansu	229	the water	ʃ w i	47	948	WATER
 230	Suansu	230	we [first person plural inclusive]	h a	930	1131	WE (INCLUSIVE)
 231	Suansu	231	wet	a tʰ w e	1029	1726	WET
-232	Suansu	232	what	m u e	954	1236	WHAT
+232	Suansu	232	what	m u/w e	954	1236	WHAT
 233	Suansu	233	the wheat	g e h u	410	1077	WHEAT
 234	Suansu	234	where	g ə n ɔ	955	1237	WHERE
-235	Suansu	235	white	a ŋ o i	1006	1335	WHITE
+235	Suansu	235	white	a ŋ o.i	1006	1335	WHITE
 236	Suansu	236	who	t u dz o	953	1235	WHO
 237	Suansu	237	the wife	p i w i	248	1199	WIFE
 238	Suansu	238	the wind	m ə r a	9	960	WIND
