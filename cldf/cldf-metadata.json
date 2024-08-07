@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/lexibank/ivanisuansu",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-2-g1dd064b",
+            "dc:created": "v1.0-3-ged9a72e",
             "dc:title": "Repository"
         },
         {

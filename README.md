@@ -19,6 +19,12 @@ Available online at https://zenodo.org/record/3383006
 
 Conceptlists in Concepticon:
 - [Sagart-2019-250](https://concepticon.clld.org/contributions/Sagart-2019-250)
+## Notes
+
+Data in segmented form were slightly adjusted from the original, by correcting some cases which we assumed to be typos and also by modifying the representation of what was judged as one and what was judged as two sounds. Data should be taken with some care at this point, since we still wait for a complete phonological analysis of the language.
+
+
+
 ## Statistics
 
 
@@ -35,9 +41,9 @@ Conceptlists in Concepticon:
 - **Sources:** 1
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
-- **Tokens:** 1,087
-- **Segments:** 78 (0 BIPA errors, 0 CLTS sound class errors, 78 CLTS modified)
-- **Inventory size (avg):** 78.00
+- **Tokens:** 1,062
+- **Segments:** 80 (0 BIPA errors, 0 CLTS sound class errors, 80 CLTS modified)
+- **Inventory size (avg):** 80.00
 
 # Contributors
 
