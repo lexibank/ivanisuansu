@@ -35,8 +35,8 @@ Data in segmented form were slightly adjusted from the original, by correcting s
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 1
-- **Concepts:** 250
+- **Varieties:** 1 (linked to 1 different Glottocodes)
+- **Concepts:** 250 (linked to 250 different Concepticon concept sets)
 - **Lexemes:** 250
 - **Sources:** 1
 - **Synonymy:** 1.00
@@ -47,10 +47,10 @@ Data in segmented form were slightly adjusted from the original, by correcting s
 
 # Contributors
 
-Name | GitHub user | Description | Role
---- | --- | --- | ---
-Johann-Mattis List | @LinguList | dataset patron | DataCurator
-Jessica Katiuscia Ivani | | original fieldwork| Author
+Name | GitHub user | Description                  | Role
+--- | --- |------------------------------| ---
+Johann-Mattis List | @LinguList | dataset patron, data curator | Editor
+Jessica Katiuscia Ivani | | original fieldwork           | Author
 
 
 
